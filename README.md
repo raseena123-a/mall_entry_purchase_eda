@@ -1,5 +1,6 @@
 # mall_entry_purchase_eda
 This project analyzes customer entry behavior and purchase decisions in a mall using a synthetic dataset.
+<ahref:
 ## 1. Purpose
 To explore and understand how customer characteristics (age, gender), entry time, and time spent in the mall affect their purchasing behavior and spending patterns.
 
