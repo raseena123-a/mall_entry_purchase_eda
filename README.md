@@ -1,9 +1,9 @@
 # mall_entry_purchase_eda
 This project analyzes customer entry behavior and purchase decisions in a mall using a synthetic dataset.
-##📌 1. Purpose
+## 1. Purpose
 To explore and understand how customer characteristics (age, gender), entry time, and time spent in the mall affect their purchasing behavior and spending patterns.
 
-##❓ 2. Key Questions
+## 2. Key Questions
 What percentage of mall visitors actually make a purchase?
 
 Does time spent in the mall influence the likelihood of purchasing?
@@ -24,7 +24,7 @@ Are there any outliers in spending or behavior?
 
 (Optional) Can we predict purchase decisions based on customer behavior?
 
-📊 3. Dataset Overview
+ 3. Dataset Overview
 Features:
 
 PersonID: Unique customer identifier
@@ -100,7 +100,7 @@ High spenders are typically aged 30–45, enter in the afternoon, and spend more
 🛒 Overall Conversion:
 Roughly 60–70% of mall entrants make a purchase, showing strong customer engagement.
 
-##🧾 Conclusion
+## Conclusion
 This exploratory data analysis helped uncover patterns in customer behavior inside a mall. The findings indicate that time of entry, age group, and time spent in the mall are all significant factors influencing purchase decisions and amount spent. These insights can be leveraged to:
 
 Optimize staff scheduling during peak hours
